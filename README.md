@@ -21,5 +21,5 @@
 
 - 📘 Facebook: https://www.facebook.com/profile.php?id=61558180357718
 - 📸 Instagram: https://www.instagram.com/saldr34/
-
+- 📘 Linkedin : http://linkedin.com/in/salim-derradj-5568a526a
 <p align="center">💡 Always learning, always building.</p>
