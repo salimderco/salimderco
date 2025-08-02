@@ -4,17 +4,6 @@
 💡 Passionate about AI, systems programming, and open-source development  
 🌍 Based in Algeria
 
-## 🚀 About Me
-
-- 💻 I'm currently working on projects about **LLMs**, **APIs**
-- 🌱 Learning **Machin Learning Algo**
-- 📚 I love contributing to open-source
-
-## 🔧 Tech Stack
-
-- 💻 Languages: `Python`, `C`, `Java`, `HTML`, `CSS`, `JavaScript`
-- 🧠 Interests: `AI`, `Algorithms`, `System Programming`
-
 ## 📫 Connect with Me
 
 - 📘 Facebook: https://www.facebook.com/profile.php?id=61558180357718
