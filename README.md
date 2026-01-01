@@ -1,7 +1,8 @@
 #  Hi, I'm Salim Derradj
 
- 2nd-year Computer Engineering Student  
+ 3nd-year Computer Engineering Student  
  Passionate about AI, systems programming, and open-source development  
+ 
  Based in Algeria
 
 ##  Connect with Me
